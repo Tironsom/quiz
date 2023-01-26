@@ -5,7 +5,7 @@ import QuestaoModel from '../model/questao'
 import { useEffect, useState} from 'react'
 import { useRouter } from 'next/router'
 
-  const Url_base = 'http://localhost:3000/api'
+  const Url_base = 'quiz-ashy-gamma.vercel.app/api'
 
 export default function home()
 {
