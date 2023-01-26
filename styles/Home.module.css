@@ -5,7 +5,7 @@
 }
 .main {
   min-height: 100vh;
-  
+  min-widht:300px
   padding: 4rem 0;
   flex: 1;
   display: flex;
