@@ -1,8 +1,8 @@
-@media screen and (max-width: 200px) {
+
     .questionario{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-}
+
