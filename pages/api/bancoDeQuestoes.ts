@@ -20,13 +20,12 @@ const questoes: QuestaoModel[] = [
     respostaModel.errada('Caneta azul'),
     respostaModel.certa('Messi dançando ando na prancha'),
   ]), 
-  new QuestaoModel(567, 'há alguem atras de você quem é',[
-    respostaModel.errada('Asmodeus'),
-    respostaModel.errada('Eu (você não sabe quem é eu :O)'),
-    respostaModel.errada('Cr7'),
-    respostaModel.certa('Gigachad'),
-  ]),
-
+  new QuestaoModel(567, 'Quem nasceu em Tilambuco é:',[
+    respostaModel.errada('tilambucano'),
+    respostaModel.errada('Manoel Gomes bom demaise'),
+    respostaModel.errada('Cristiano Ronaldo zuuu'),
+    respostaModel.certa('Tilambuquense'),
+  ])
 ]
 
 export default questoes
