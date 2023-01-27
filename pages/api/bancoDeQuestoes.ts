@@ -15,7 +15,7 @@ const questoes: QuestaoModel[] = [
     respostaModel.certa('Eduardo Freitas'),
   ]), 
   new QuestaoModel(787, 'País que fica abaixo de Bélgica',[
-    respostaModel.errada('Belgica'),
+    respostaModel.errada('Inglaterra'),
     respostaModel.errada('Dinamarca'),
     respostaModel.errada('Brasil'),
     respostaModel.certa('Luxemburgo'),
