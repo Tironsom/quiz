@@ -25,8 +25,7 @@ const questoes: QuestaoModel[] = [
     respostaModel.errada('Manoel Gomes bom demaise'),
     respostaModel.errada('Lula'),
     respostaModel.certa('Fernando Henrique Cardoso'),
-    respostaModel.errada('Dilma'),
-    respostaModel.errada('Getulío Vargas'),
+  
   ])
 ]
 
