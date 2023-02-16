@@ -5,7 +5,7 @@ import QuestaoModel from '../model/questao'
 import { useEffect, useState} from 'react'
 import { useRouter } from 'next/router'
 
-  const Url_base = 'https://quiz-afhtodrin-tironsom.vercel.app/api'
+  const Url_base = 'https://quiz-ashy-gamma.vercel.app/api'
 
 export default function home()
 {
